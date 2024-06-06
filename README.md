@@ -1,5 +1,4 @@
 ## Bem-vindo(a) ao perfil de Bauer Portela 😁
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Android Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg">
   <img align="center" alt="Java" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
@@ -9,6 +8,8 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg">
 </div>
+<br>
+
 
 <div>
    <a href="https://github.com/bauerportela">
@@ -16,7 +17,7 @@
 </div>
  
 <br>
- ### Pra me achar, me chame nas minhas redes sociais!
+ ##### Pra me achar, me chame nas minhas redes sociais! ######
  
 <div> 
   <a href="https://instagram.com/bauerportela" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
