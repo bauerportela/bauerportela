@@ -1,27 +1,22 @@
 ## Bem-vindo(a) ao perfil de Bauer Portela 😁
 
- <div>
-   <a href="https://github.com/bauerportela">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bauerportela&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- 
-</div>
-    
 <div style="display: inline_block"><br>
   <img align="center" alt="Android Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg">
   <img align="center" alt="Java" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="Kotlin" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain-wordmark.svg" />
+  <img align="center" alt="Kotlin" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain-wordmark.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
-     
-           
+  <img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg">
+</div>
 
+<div>
+   <a href="https://github.com/bauerportela">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bauerportela&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
  
 <br>
- 
-### Pra me achar, me chame nas minhas redes sociais!
+ ### Pra me achar, me chame nas minhas redes sociais!
  
 <div> 
   <a href="https://instagram.com/bauerportela" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
